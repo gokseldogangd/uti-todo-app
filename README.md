@@ -1,3 +1,23 @@
+Sizlere, Next.js, Prisma, SWR ve Tailwind CSS kullanarak geliştirdiğim, yenilikçi ve dinamik yapılacaklar listesi uygulaması 'UTI-Tracker'ı tanıtmaktan büyük heyecan duyuyorum. Bu projede, en güncel web teknolojilerini kullanarak, kullanıcı dostu, etkileşimli ve verimli bir kullanıcı deneyimi oluşturmayı hedefledim.
+Modern Frontend Yaklaşımı: UTI-Todo, Next.js 14.0.4'ün sunduğu sunucu tarafı işleme (SSR) ve statik site oluşturma (SSG) özellikleriyle, hızlı ve güvenli bir frontend çözümü sağlar. React 18'in güçlü bileşen modelini kullanarak, uygulama içi etkileşimleri sorunsuz bir şekilde yönetiyorum.
+Etkileşimli UI Tasarımı: Tailwind CSS ve TailwindCSS Animate ile modern, duyarlı ve animasyonlu bir arayüz oluşturdum. Lucide React ikonları ve Radix UI bileşenleri, kullanıcı deneyimini zenginleştiren görsel unsurlar ekliyor.
+Veri Yönetimi ve Gerçek Zamanlı Güncellemeler: Prisma ORM (versiyon 5.8.1), veritabanı işlemlerini basitleştirmek ve optimize etmek için kullanılıyor. SWR (versiyon 2.2.4) ile gerçek zamanlı veri çekme ve otomatik yenileme özellikleri, uygulamanın verimli ve güncel kalmasını sağlıyor.
+Drag & Drop İşlevselliği: @hello-pangea/dnd ile entegre edilen drag and drop işlevselliği, kullanıcılara kolay ve etkileşimli bir deneyim sunuyor. Todo öğelerini sürükleyip bırakarak, görevler arasında sorunsuz bir şekilde gezinebilirsiniz.
+Canlı Deneyim: Gerçek zamanlı kullanıcı deneyimini kendiniz yaşamak için uygulamayı ziyaret edebilirsiniz. Bu canlı sürüm, projenin dinamizmini ve kullanıcı dostu arayüzünü doğrudan deneyimlemenize olanak tanır, böylece uygulamanın işlevselliğini  görebilirsiniz.
+Geliştirme Süreci ve Kod Kalitesi: TypeScript, ESLint ve Prisma'nın son sürümleriyle birlikte, uygulamanın kod kalitesini ve sürdürülebilirliğini sağlamak için en iyi geliştirme pratiklerini uyguladım. Her bir bileşen ve API yolunun, modern ve temiz bir kod yapısıyla inşa edilmesine özen gösterdim.
+Sonuç olarak, UTI-Todo, gelişmiş web teknolojileri ve en iyi kodlama pratikleri ile oluşturulmuş, yüksek performanslı ve kullanıcı dostu bir web uygulamasıdır. Bu projeyi geliştirirken kazandığım deneyimler, Utilify ekibinde daha da büyük projelerde katkıda bulunmam için mükemmel bir temel oluşturuyor.
+
+Canlı deneyim için: https://uti-tracker.vercel.app/
+
+
+
+
+
+
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
